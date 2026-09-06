@@ -10,4 +10,4 @@
 
 ## Transport
 
-Wires are tiered (Paper 5, Copper 20, Gold 50, Diamond 100, HV 500 FE/s) and **wires do not connect to each other**. The slowest wire on the path limits the machine.
+Wires are tiered (Paper 5, Copper 20, Gold 50, Diamond 100, HV 500 FE/s) and **wires do not connect to each other if they are not the same type**. The slowest wire on the path limits the machine.
