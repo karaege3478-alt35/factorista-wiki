@@ -6,7 +6,7 @@
 - **Solar panel:** 10 FE/s. Industrial: 80 FE/s. Needs open sky.
 - **Wind turbine:** 0-40 FE/s by altitude, needs sky.
 - **Water turbine:** 8 FE/s per touching water (max 48).
-- **Nuclear reactor:** 24,000 FE per rod. Needs heat management; runs forever with lubricant cooling.
+- **Nuclear reactor:** 24,000 FE per rod. Needs heat management.
 
 ## Transport
 
