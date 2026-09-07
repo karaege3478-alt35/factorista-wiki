@@ -39,3 +39,12 @@ Custom tabs from other mods work too:
 ```java
 CreativeTabs.addItemToCreativeTab(PURPLE_DIAMOND, "hujujuju", "main");
 ```
+
+## One-line items
+
+```java
+public static final Item MY_GEM = LibItems.addItem("mymod", "my_gem", CreativeTabs.Tab.INGREDIENTS);
+```
+
+Registers the item and tabs it in one call (call during mod init).
+Model, texture and name still come from your assets.
