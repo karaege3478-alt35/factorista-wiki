@@ -4,7 +4,7 @@ Shared library for OpenYerX mods. Factorista requires it — without this mod in
 
 ## For players
 
-Just install it next to Factorista (and any OpenYerX addon). It has no GUI and does nothing visible on its own.
+Just install it next to Factorista or any OpenYerX addon. It has no GUI and does nothing visible on its own.
 
 ## For addon developers
 
