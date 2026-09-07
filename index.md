@@ -9,3 +9,4 @@ The official wiki of the Factorista mod, a 1.20.1 Fabric factory mod. [Modrinth 
 - [Fluids](docs/fluids.md)
 - [Machines](docs/machines.md)
 - [Logistics](docs/logistics.md)
+- [OpenYerX's Library](docs/library.md)
