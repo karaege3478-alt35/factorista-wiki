@@ -22,3 +22,20 @@ Implement `com.openyerx.lib.api.OpenYerXPlugin`:
 - `onOpenYerXInit()` runs once at startup — register your content there.
 
 The library discovers every registered plugin and logs them at boot.
+
+## Creative tabs
+
+```java
+CreativeTabs.addItemToCreativeTab(MY_ITEM, CreativeTabs.Tab.FACTORISTA);
+```
+
+One call puts your item into any of the 10 vanilla main tabs
+(Building Blocks, Decorations, Redstone, Transportation, Food and Drink,
+Tools, Combat, Brewing, Ingredients, Spawn Eggs) or Factorista's own tab.
+No event code needed.
+
+Custom tabs from other mods work too:
+
+```java
+CreativeTabs.addItemToCreativeTab(PURPLE_DIAMOND, "hujujuju", "main");
+```
